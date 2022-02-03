@@ -1,0 +1,21 @@
+git init
+
+touch
+git add
+git status
+git commit -m "label"
+git log
+git push
+
+rm -rf filename
+
+git add .
+git commit -m "label"
+git reset --soft cid(n-1)
+git reset HEAD filename
+git reset --mixed cid(n-1)
+
+mkdir
+cd directoryname
+
+
